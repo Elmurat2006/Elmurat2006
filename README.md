@@ -10,4 +10,4 @@
 * Redux
 * TS
 
-📫 Связаться со мной [gmail](elmuratnagaev117@gmail.com)
+📫 Связаться со мной [сайт-портфолио](https://elmurat2006.github.io/rezume/)
